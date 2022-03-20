@@ -24,5 +24,6 @@ word-wrap=false
 
 [preferences/window]
 menubar-visible=true
+statusbar-visible=true
 toolbar-icon-size='small-toolbar'
 toolbar-visible=false
