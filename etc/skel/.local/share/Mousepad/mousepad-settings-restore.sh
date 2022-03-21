@@ -6,7 +6,7 @@
 #reset
 #dconf reset -f /org/xfce/mousepad/
 
-cp -r gtksourceview-4 $HOME/.local/share/
+cp -r /etc/skel/.local/share/gtksourceview-4 $HOME/.local/share/
 
 #restore
 dconf load /org/xfce/mousepad/ < mousepad.settings.dconf
